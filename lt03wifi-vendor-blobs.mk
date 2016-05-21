@@ -89,6 +89,7 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_DIR)/lib/libarcsoft_sensorndk.so:system/lib/libarcsoft_sensorndk.so \
     $(VENDOR_DIR)/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     $(VENDOR_DIR)/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
+    $(VENDOR_DIR)/lib/libmor.so:system/lib/libmor.so \
     $(VENDOR_DIR)/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     $(VENDOR_DIR)/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     $(VENDOR_DIR)/lib/libhdcp2.so:system/lib/libhdcp2.so \
